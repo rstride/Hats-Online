@@ -54,3 +54,11 @@ body {
         -2px 2px 0 #000,
         2px 2px 0 #000;
 }
+
+.img-anti {
+    width: 200px
+}
+
+div.box {
+    text-align: center
+}
